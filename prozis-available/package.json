@@ -1,0 +1,13 @@
+{
+  "name": "prozis-available",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "playwright": "1.35.0"
+  }
+}
